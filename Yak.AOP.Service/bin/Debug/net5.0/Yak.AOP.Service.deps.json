@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Yak.AOP.Service/1.0.0": {
+        "dependencies": {
+          "Yak.AOP.Model": "1.0.0"
+        },
+        "runtime": {
+          "Yak.AOP.Service.dll": {}
+        }
+      },
+      "Yak.AOP.Model/1.0.0": {
+        "runtime": {
+          "Yak.AOP.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Yak.AOP.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Yak.AOP.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

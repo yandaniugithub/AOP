@@ -1,0 +1,15 @@
+F:\biji\NetCore\AOP\code\Yak.AOP.Service\bin\Debug\net5.0\Yak.AOP.Service.deps.json
+F:\biji\NetCore\AOP\code\Yak.AOP.Service\bin\Debug\net5.0\Yak.AOP.Service.dll
+F:\biji\NetCore\AOP\code\Yak.AOP.Service\bin\Debug\net5.0\Yak.AOP.Service.pdb
+F:\biji\NetCore\AOP\code\Yak.AOP.Service\bin\Debug\net5.0\Yak.AOP.Model.dll
+F:\biji\NetCore\AOP\code\Yak.AOP.Service\bin\Debug\net5.0\Yak.AOP.Model.pdb
+F:\biji\NetCore\AOP\code\Yak.AOP.Service\obj\Debug\net5.0\Yak.AOP.Service.csproj.AssemblyReference.cache
+F:\biji\NetCore\AOP\code\Yak.AOP.Service\obj\Debug\net5.0\Yak.AOP.Service.GeneratedMSBuildEditorConfig.editorconfig
+F:\biji\NetCore\AOP\code\Yak.AOP.Service\obj\Debug\net5.0\Yak.AOP.Service.AssemblyInfoInputs.cache
+F:\biji\NetCore\AOP\code\Yak.AOP.Service\obj\Debug\net5.0\Yak.AOP.Service.AssemblyInfo.cs
+F:\biji\NetCore\AOP\code\Yak.AOP.Service\obj\Debug\net5.0\Yak.AOP.Service.csproj.CoreCompileInputs.cache
+F:\biji\NetCore\AOP\code\Yak.AOP.Service\obj\Debug\net5.0\Yak.AOP.Service.csproj.CopyComplete
+F:\biji\NetCore\AOP\code\Yak.AOP.Service\obj\Debug\net5.0\Yak.AOP.Service.dll
+F:\biji\NetCore\AOP\code\Yak.AOP.Service\obj\Debug\net5.0\refint\Yak.AOP.Service.dll
+F:\biji\NetCore\AOP\code\Yak.AOP.Service\obj\Debug\net5.0\Yak.AOP.Service.pdb
+F:\biji\NetCore\AOP\code\Yak.AOP.Service\obj\Debug\net5.0\ref\Yak.AOP.Service.dll

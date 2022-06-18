@@ -1,0 +1,12 @@
+F:\biji\NetCore\AOP\code\Yak.AOP.Model\bin\Debug\net5.0\Yak.AOP.Model.deps.json
+F:\biji\NetCore\AOP\code\Yak.AOP.Model\bin\Debug\net5.0\Yak.AOP.Model.dll
+F:\biji\NetCore\AOP\code\Yak.AOP.Model\bin\Debug\net5.0\Yak.AOP.Model.pdb
+F:\biji\NetCore\AOP\code\Yak.AOP.Model\obj\Debug\net5.0\Yak.AOP.Model.csproj.AssemblyReference.cache
+F:\biji\NetCore\AOP\code\Yak.AOP.Model\obj\Debug\net5.0\Yak.AOP.Model.GeneratedMSBuildEditorConfig.editorconfig
+F:\biji\NetCore\AOP\code\Yak.AOP.Model\obj\Debug\net5.0\Yak.AOP.Model.AssemblyInfoInputs.cache
+F:\biji\NetCore\AOP\code\Yak.AOP.Model\obj\Debug\net5.0\Yak.AOP.Model.AssemblyInfo.cs
+F:\biji\NetCore\AOP\code\Yak.AOP.Model\obj\Debug\net5.0\Yak.AOP.Model.csproj.CoreCompileInputs.cache
+F:\biji\NetCore\AOP\code\Yak.AOP.Model\obj\Debug\net5.0\Yak.AOP.Model.dll
+F:\biji\NetCore\AOP\code\Yak.AOP.Model\obj\Debug\net5.0\refint\Yak.AOP.Model.dll
+F:\biji\NetCore\AOP\code\Yak.AOP.Model\obj\Debug\net5.0\Yak.AOP.Model.pdb
+F:\biji\NetCore\AOP\code\Yak.AOP.Model\obj\Debug\net5.0\ref\Yak.AOP.Model.dll
